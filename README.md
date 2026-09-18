@@ -1,5 +1,7 @@
 # claude-pr-review-skill
 
+![Demo of the setup-claude-pr-review skill running end-to-end](./assets/demo.gif)
+
 A [Claude Code](https://claude.com/claude-code) **skill** that sets up automated,
 Claude-powered pull request review on a GitHub repo — via a `claude-code-action`
 GitHub Actions workflow, authenticated with a Claude Pro/Max OAuth token (no
